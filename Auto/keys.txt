@@ -1,2 +1,2 @@
-Username : "cse210001065@iiti.ac.in"
-Password : "9908119320"
+Username : "enter_your_username_here"
+Password : "enter_your_password_here"
