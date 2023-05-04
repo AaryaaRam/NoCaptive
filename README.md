@@ -42,3 +42,7 @@ To install this again run the following command in your terminal: 'pip install P
 Once all the requirements are installed, you can now run the software to automate your internet login process.
 
 Run the script using your python interpreter.
+
+SRS Documentation: https://docs.google.com/document/d/11RBjusOOdIS5wsBSrGe5yqNjzFy14Ds6WJkAGbpTNMk/edit#heading=h.4lnxpifv3kr9
+
+UML Diagrams: https://lucid.app/lucidchart/dd07313b-4eaa-4703-9d94-c56d192ce339/edit?viewport_loc=-666%2C-8%2C3369%2C1370%2C0_0&invitationId=inv_62d43bf5-8f5e-4191-ad93-fee473f3c671
