@@ -1,4 +1,4 @@
-# Automate_Network_Login
+# NoCaptive
 
 This Software helps you in automatically Login your Internet Captive Portal.
 It is built on python utilising some of its libraries like Selenium, pystray and PIL.
